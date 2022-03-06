@@ -1,0 +1,55 @@
+ /* CODE CSS DE L'INDEX D'ESAGAPP */
+
+
+
+html {
+  min-height: 100%;
+  background-image: url(/esagapp/images/cover.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
+
+
+.headercontainer{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+.maincontainer{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #043e50;
+}
+
+.footercontainer{
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: #021c24;
+  
+}
+
+.footercontainer p{
+  display: block;
+  color: rgb(5, 102, 94);
+  text-align: center;
+}
+
+.menucontainer{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+nav {
+  margin: 0px auto;
+  display: block;
+  height: inherit;
+  width: 100%;
+}
